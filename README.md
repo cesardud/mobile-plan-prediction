@@ -56,7 +56,10 @@ Cada fila representa a un usuario, con las siguientes columnas:
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/mobile-plan-prediction.git
+2. Navega al proyecto:
    cd mobile-plan-prediction
+3. Instala las librerías requeridas:
    pip install -r requirements.txt
+4. Abre el notebook:
    jupyter notebook code.ipynb
 
