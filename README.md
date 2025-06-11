@@ -43,7 +43,7 @@ Cada fila representa a un usuario, con las siguientes columnas:
 
 ---
 
-## 🧪 División de datos
+## 📊 División de datos
 
 - 60% entrenamiento
 - 20% validación
